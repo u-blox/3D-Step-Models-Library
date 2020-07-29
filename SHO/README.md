@@ -2,7 +2,7 @@
 Mechanical 3D Models in STEP AP214 File Format
 --------------------------------------------------------------------------------
 
-Copyright (c) u-blox 
+Copyright &copy; u-blox 
 
 u-blox reserves all rights in this deliverable (documentation, software, etc., 
 hereafter “Deliverable”). 
