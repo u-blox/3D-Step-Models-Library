@@ -1,4 +1,4 @@
-﻿# 3D-Step-Models-Library
+# 3D-Step-Models-Library
 Mechanical 3D Models in STEP AP214 File Format
 --------------------------------------------------------------------------------
 
@@ -51,6 +51,8 @@ Contribution provided to us for any purpose without fee.
 |NORA-B1x0.STEP             |NORA-B100, NORA-B120|
 |NORA-B1x1.STEP             |NORA-B101, NORA-B121|
 |NORA-B1x6.STEP             |NORA-B106, NORA-B126|
+|NORA-W101-W251.STEP        |NORA-W101, NORA-W251|
+|NORA-W106-W256.STEP        |NORA-W106, NORA-W256|
 |ODIN-W160.STEP             |ODIN-W160|
 |ODIN-W161.STEP             |ODIN-W161|
 |ODIN-W260.STEP             |ODIN-W260|
