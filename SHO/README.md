@@ -53,6 +53,8 @@ Contribution provided to us for any purpose without fee.
 |NORA-B1x6.STEP             |NORA-B106, NORA-B126|
 |NORA-W101-W251.STEP        |NORA-W101, NORA-W251|
 |NORA-W106-W256.STEP        |NORA-W106, NORA-W256|
+|NORA-W3x1.STEP             |NORA-W301, NORA-W361|
+|NORA-W3x6.STEP             |NORA-W306, NORA-W366|
 |ODIN-W160.STEP             |ODIN-W160|
 |ODIN-W161.STEP             |ODIN-W161|
 |ODIN-W260.STEP             |ODIN-W260|
