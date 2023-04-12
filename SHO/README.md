@@ -25,6 +25,7 @@ Contribution provided to us for any purpose without fee.
 |FILENAME                   |Applicable modules |
 |---------------------------|-------------------|
 |ANNA-B112.STEP             |ANNA-B112|
+|ANT-B10.STEP               |ANT-B10 antenna board featuring NINA-B411-40B|
 |BMD-300-330-360.STEP       |BMD-300, BMD-330, BMD-360|
 |BMD-301.STEP               |BMD-301|
 |BMD-340.STEP               |BMD-340|
