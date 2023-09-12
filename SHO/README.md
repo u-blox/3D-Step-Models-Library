@@ -47,6 +47,8 @@ Contribution provided to us for any purpose without fee.
 |NINA-B3x2.STEP             |NINA-B302, NINA-B312|
 |NINA-B3x6-B4x6.STEP        |NINA-B306, NINA-B316, NINA-B406|
 |NINA-B400.STEP             |NINA-B400|
+|NINA-B501.STEP             |NINA-B501|
+|NINA-B506.STEP             |NINA-B506|
 |NINA-W1x6.STEP             |NINA-W106, NINA-W156|
 |NORA-B100.STEP             |NORA-B100|
 |NORA-B101.STEP             |NORA-B101|
