@@ -27,4 +27,5 @@ Contribution provided to us for any purpose without fee.
 |ANN-MB_MULTI-BAND_GNSS ANTENNA.zip |ANN-MB multi-band antennas|
 |MAX (STEP-AP203).STEP				|MAX modules form factor (AP203)|
 |MAX (STEP-AP214).STEP				|MAX modules form factor (AP214)|
+|ZED_PCB_TABS.STEP            |ZED modules form factor (AP214)|
 To be completed
