@@ -1,5 +1,5 @@
 # 3D-Step-Models-Library
-Mechanical 3D Models in STEP AP214 File Format
+Mechanical 3D Models in STEP AP203 and AP214 File Format
 --------------------------------------------------------------------------------
 
 Copyright &copy; u-blox 
