@@ -66,3 +66,5 @@ Contribution provided to us for any purpose without fee.
 |ODIN-W262.STEP             |ODIN-W261|
 |R41Z.STEP                  |R41Z|
 |THEO-P173.STEP             |THEO-B173|
+|M2-JODY-W377-00C_PCIE-UART.STEP  |M2-JODY-W377 with PCIE and UART configuration|
+|M2-JODY-W377-01C_SDIO-UART.STEP  |M2-JODY-W377 with SDIO and UART configuration|
