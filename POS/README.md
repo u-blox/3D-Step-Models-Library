@@ -22,7 +22,7 @@ Contribution provided to us for any purpose without fee.
 
 -------------------------------------------------------------------------------
 
-|FILENAME                           |Applicable modules 	   |
+|FILENAME                           |Applicable product 	   |
 |-----------------------------------|--------------------------|
 |ANN-MB_MULTI-BAND_GNSS ANTENNA.zip |ANN-MB multi-band antennas|
 |MAX (STEP-AP203).STEP				|MAX modules form factor (AP203)|
@@ -31,6 +31,10 @@ Contribution provided to us for any purpose without fee.
 |RCB-F9(AP214).STEP			|RCB-F9T timing board			|
 |C099_RevB.zip			|C099 application board			|
 |MIA-M10Q.STEP			|MIA-M10Q SiP			|
+|CAM.STEP            |CAM-M8|
+|LEA-M8F(AP203).STEP |LEA-M8F|
+|LEA-M8F(AP214).STEP |LEA-M8F|
+|LEA.STEP            |Generic LEA modules|
 |			|			|
 |			|			|
 |			|			|
