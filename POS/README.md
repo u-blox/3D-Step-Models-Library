@@ -23,22 +23,25 @@ Contribution provided to us for any purpose without fee.
 -------------------------------------------------------------------------------
 
 |FILENAME                           |Applicable product 	   |
-|-----------------------------------|--------------------------|
-|ANN-MB_MULTI-BAND_GNSS ANTENNA.zip |ANN-MB multi-band antennas|
-|MAX (STEP-AP203).STEP				|MAX modules form factor (AP203)|
-|MAX (STEP-AP214).STEP				|MAX modules form factor (AP214)|
-|ZED_PCB_TABS.STEP            |ZED modules form factor (AP214)|
-|RCB-F9(AP214).STEP			|RCB-F9T timing board			|
-|C099_RevB.zip			|C099 application board			|
-|MIA-M10Q.STEP			|MIA-M10Q SiP			|
-|CAM.STEP            |CAM-M8|
-|LEA-M8F(AP203).STEP |LEA-M8F|
-|LEA-M8F(AP214).STEP |LEA-M8F|
-|LEA.STEP            |Generic LEA modules|
-|			|			|
-|			|			|
-|			|			|
-|			|			|
-|			|			|
-|			|			|
-To be completed
+|----------------------------------|-----------------------------------------------------|
+| ANN-MB2.step                     | ANN-MB2 - All-band high precision GNSS antenna      |
+| ANN-MB_MULTI-BAND_GNSS ANTENNA.zip | ANN-MB - Multi-band high precision GNSS antenna                                               |
+| C099_RevB.zip                    | C099 application board                              |
+| CAM.STEP                         | CAM-M8 module                                       |
+| LEA-M8F(AP203).STEP              | LEA-M8F module (AP203)                              |
+| LEA-M8F(AP214).STEP              | LEA-M8F module (AP214)                              |
+| LEA.STEP                         | Generic LEA modules                                 |
+| M2-ZED-F9T-20B-00.STEP           | M2-ZED-F9T-20B-00 3D STEP model                     |
+| M2-ZED-F9T-25B-00.STEP           | M2-ZED-F9T-25B-00 3D STEP model                     |
+| MAX (STEP-AP203).STEP            | MAX modules form factor (AP203)                     |
+| MAX (STEP-AP214).STEP            | MAX modules form factor (AP214)                     |
+| MIA-M10Q.STEP                    | MIA-M10Q SiP module                                 |
+| NEO.STEP                         | Generic NEO modules                                 |
+| PAM.STEP                         | Generic PAM modules                                 |
+| RCB-F9T(AP214).STEP              | RCB-F9T timing board                                |
+| SAM_AP203.STEP                   | SAM 3D STEP files                                   |
+| SAM_AP214.STEP                   | SAM 3D STEP files                                   |
+| ZED_PCB_TABS.STEP                | ZED modules form factor (AP214)                     |
+| ZOE_S-LGA51 (STEP-AP203).STEP    | ZOE module (AP203)                                  |
+| ZOE_S-LGA51 (STEP-AP214).STEP    | ZOE module (AP214)                                  |
+
