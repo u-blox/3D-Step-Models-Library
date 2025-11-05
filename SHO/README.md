@@ -39,6 +39,7 @@ Contribution provided to us for any purpose without fee.
 |JODY-W1-W2.STEP            |JODY-W163, JODY-W164, JODY-W167, JODY-W263|
 |LILY-W131.STEP             |LILY-W131|
 |LILY-W132.STEP             |LILY-W132|
+|MAYA-W4x2_Single_And_Dual_Pin_UFL_SMD_REVA.step |MAYA-W4x2|
 |NINA-B111.STEP             |NINA-B111|
 |NINA-B112.STEP             |NINA-B112|
 |NINA-B221-W1x1.STEP        |NINA-B221, NINA-W101, NINA-W131, NINA-W151|
@@ -70,3 +71,4 @@ Contribution provided to us for any purpose without fee.
 |THEO-P173.STEP             |THEO-B173|
 |M2-JODY-W377-00C_PCIE-UART.STEP  |M2-JODY-W377 with PCIE and UART configuration|
 |M2-JODY-W377-01C_SDIO-UART.STEP  |M2-JODY-W377 with SDIO and UART configuration|
+
