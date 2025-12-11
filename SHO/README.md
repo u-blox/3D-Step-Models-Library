@@ -24,6 +24,8 @@ Contribution provided to us for any purpose without fee.
 
 |FILENAME                   |Applicable modules |
 |---------------------------|-------------------|
+|ALMA-B106.STEP             |ALMA-B106|
+|ALMA-B101.STEP             |ALMA-B101|
 |ANNA-B112.STEP             |ANNA-B112|
 |BMD-300-330-360.STEP       |BMD-300, BMD-330, BMD-360|
 |BMD-301.STEP               |BMD-301|
@@ -72,5 +74,6 @@ Contribution provided to us for any purpose without fee.
 |THEO-P173.STEP             |THEO-B173|
 |M2-JODY-W377-00C_PCIE-UART.STEP  |M2-JODY-W377 with PCIE and UART configuration|
 |M2-JODY-W377-01C_SDIO-UART.STEP  |M2-JODY-W377 with SDIO and UART configuration|
+
 
 
