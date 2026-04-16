@@ -45,7 +45,7 @@ Contribution provided to us for any purpose without fee.
 |MAYA-W4x2_Single_And_Dual_Pin_UFL_SMD_REVA.step |MAYA-W4x2|
 |MAYA-W3_1UFL-ANT.step      |MAYA-W3x2| 
 |MAYA-W3_2UFL-ANT.step      |MAYA-W3x0|
-|MAYA-Emb-ANT.step          |MAYA-W3x6|
+|MAYA-W3_Emb-ANT.step       |MAYA-W3x6|
 |MAYA-W3_Pin-ANT.step       |MAYA-W3x1, MAYA-W3x3|
 |NINA-B111.STEP             |NINA-B111|
 |NINA-B112.STEP             |NINA-B112|
